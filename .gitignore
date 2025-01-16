@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+dist/
+build/
+coverage/
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+// Modified: 2025-01-16 21:15:14
